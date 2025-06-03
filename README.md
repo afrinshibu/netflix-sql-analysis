@@ -83,7 +83,7 @@ netflix-sql-project/<br>
 
 ## 🌟 Author
 Afrin Shibu Mubarak 
-[LinkedIn](linkedin.com/in/afrin-shibu-mubarak/) | [GitHub](github.com/afrinshibu) 
+[LinkedIn](https://www.linkedin.com/in/afrin-shibu-mubarak/) | [GitHub](https://github.com/afrinshibu) 
 
 ---
 
