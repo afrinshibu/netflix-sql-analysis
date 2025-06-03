@@ -58,9 +58,9 @@ To clean and analyze Netflix's content dataset in order to answer high-level que
 
 ## 📊 Folder Structure / Files
 netflix-sql-project/
-├── README.md # Project overview and summary
-├── netflix_datacleaning.ipynb # Jupyter Notebook: Data cleaning in Python
-├── netflix_showSQL.sql # SQL analysis queries for business questions
+├── README.md # Project overview and summary<br>
+├── netflix_datacleaning.ipynb # Jupyter Notebook: Data cleaning in Python<br>
+├── netflix_showSQL.sql # SQL analysis queries for business questions<br>
 └── netflix_titles_cleaned.csv # Cleaned dataset used for SQL import
 
 ---
